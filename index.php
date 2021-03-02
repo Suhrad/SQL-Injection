@@ -44,6 +44,10 @@ h1{
   <a href="login3.php">Vulnerable PIN Login</a>
   <br/>
   <a href="login4.php">Secure PIN Login</a>
+  <p>----------------------------------------------------</p>
+  <a href="search1.php">Vulnerable Search</a>
+  <br/>
+
 
 
   </div>
