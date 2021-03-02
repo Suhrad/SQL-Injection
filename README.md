@@ -11,3 +11,5 @@ The Website includes -
 
 3.Vulnerable PIN Login |
   Secure PIN Login
+  
+ 4. Velnerable Search to get all tables in the database and get details of the tables
