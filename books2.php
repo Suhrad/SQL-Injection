@@ -25,7 +25,7 @@ h1{
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
       
       <h3 class="text-center"><span class="label label-success">
-Secure Search</span></h3><br>
+Secure input box</span></h3><br>
       
       <div class="row">
         <div class="col-sm-10">

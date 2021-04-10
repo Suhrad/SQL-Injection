@@ -24,7 +24,7 @@ h1{
     
       
       <h3 class="text-center"><span class="label label-success">
-Secure Standard Login</span></h3><br>
+Secure Standard / Normal Login</span></h3><br>
       
       <?php
 	   error_reporting(0);

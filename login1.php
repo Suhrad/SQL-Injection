@@ -25,7 +25,7 @@ h1{
 
       
       <h3 class="text-center"><span class="label label-danger">
-Vulnerable Login</span></h3><br>
+Vulnerable Standard / Normal Login</span></h3><br>
       
       <?php
 	  error_reporting(0);

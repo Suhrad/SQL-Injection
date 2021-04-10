@@ -31,21 +31,21 @@ h1{
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <div class="container">
   <br/>
-  <a href="books1.php">Vulnerable Search</a>
+  <a href="books1.php">Vulnerable Input Box</a>
   <br/>
-  <a href="books2.php">Secure Search</a>
+  <a href="books2.php">Secure Input Box</a>
   <br/>
   <p>----------------------------------------------------</p>
-  <a href="login1.php">Vulnerable Normal Login</a>
+  <a href="login1.php">Vulnerable Standard / Normal Login</a>
   <br/>
-  <a href="login2.php">Secure Normal Login</a>
+  <a href="login2.php">Secure Standard / Normal Login</a>
   <br/>
   <p>----------------------------------------------------</p>
   <a href="login3.php">Vulnerable PIN Login</a>
   <br/>
   <a href="login4.php">Secure PIN Login</a>
   <p>----------------------------------------------------</p>
-  <a href="search1.php">Vulnerable Search</a>
+  <a href="search1.php">Vulnerable Search Box</a>
   <br/>
 
 

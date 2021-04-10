@@ -23,7 +23,7 @@ h1{
 	<br/>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
       <h3 class="text-center"><span class="label label-danger">
-Vulnerable Numeric Login</span></h3><br>
+Vulnerable PIN Login</span></h3><br>
       
       <?php
 	   error_reporting(0);

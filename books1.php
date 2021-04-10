@@ -24,7 +24,7 @@ h1{
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
       <h3 class="text-center"><span class="label label-danger">
-Vulnerable Search</span></h3><br>
+Vulnerable input box </span></h3><br>
       
       <div class="row">
         <div class="col-sm-10">
@@ -167,7 +167,7 @@ if ($query != null)
         <div class="col-sm-12">
           <div class="highlight">
             <pre>
-Pass <strong>' UNION SELECT * FROM users WHERE '1'='1</strong> as author to get all users data.<br>
+Pass <strong>' UNION SELECT * FROM users WHERE '1'='1</strong> in author field.<br>
 The same result is obtained by using url <a href="books1.php?author='+UNION+SELECT+*+FROM+users+WHERE '1'='1"><strong>books1.php?author='+UNION+SELECT+*+FROM+users+WHERE '1'='1</strong></a>.
             </pre>
           </div>
